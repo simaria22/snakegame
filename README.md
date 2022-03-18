@@ -1,2 +1,2 @@
 # snakegame
-## A snake game implementation in c
+ A snake game implementation in c
